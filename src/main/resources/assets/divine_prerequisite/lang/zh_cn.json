@@ -1,0 +1,16 @@
+{
+  "death.attack.divine_void_damage": "%1$s被%2$s使用虚无之力撕碎",
+  "death.attack.divine_void_damage.item": "%1$s被%2$s使用%3$s的虚无之力撕裂",
+  
+  "effect.divine_prerequisite.frosty": "冻结",
+  "effect.divine_prerequisite.frosty.description": "减缓自身移动速度并持续受到伤害",
+  
+  "effect.divine_prerequisite.charm": "魅惑",
+  "effect.divine_prerequisite.charm.description": "每次受到伤害时，为施加此效果的来源回复等额生命值",
+  
+  "effect.divine_prerequisite.corruption": "腐秽",
+  "effect.divine_prerequisite.corruption.description": "随着时间推移，持续扣除最大生命值的百分比",
+  
+  "effect.divine_prerequisite.no_heal": "禁疗",
+  "effect.divine_prerequisite.no_heal.description": "禁止任何形式的生命值回复"
+}

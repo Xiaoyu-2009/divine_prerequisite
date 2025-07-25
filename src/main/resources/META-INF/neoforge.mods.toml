@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All rights reserved"
+
+[[mods]]
+modId="divine_prerequisite"
+version="1.0.0"
+displayName="天神前置"
+authors="Xiaoyu_2009"
+displayURL="https://space.bilibili.com/506597031"
+description='''
+天神系列的前置模组
+'''
+
+
+
+[[dependencies.divine_prerequisite]]
+    modId="neoforge"
+    mandatory=true
+    versionRange="[21.1.179,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.divine_prerequisite]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
