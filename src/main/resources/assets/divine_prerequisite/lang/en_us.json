@@ -1,0 +1,9 @@
+{
+  "death.attack.divine_void_damage": "%1$s was torn apart by%2$s using void power",
+  "death.attack.divine_void_damage.item": "%1$s was torn apart by%2$s using%3$s void power",
+  
+  "effect.divine_prerequisite.frosty": "Frosty",
+  "effect.divine_prerequisite.charm": "Charm",
+  "effect.divine_prerequisite.corruption": "Corruption",
+  "effect.divine_prerequisite.no_heal": "No Heal"
+}
